@@ -1,0 +1,45 @@
+.hero-wrapper {
+    height: 50rem;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+
+.hero-heading {
+    font-size: 4rem;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 7rem;
+
+}
+
+.focus {
+    background: linear-gradient(135deg, #69f, #f36);
+    color: transparent;
+    /* background-clip: text; */
+}
+
+.hero-desc {
+    color: #999999;
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.hero-button {
+    background: linear-gradient(135deg, #bc77ef, #75c6ed);
+    color: transparent;
+    background-clip: text;
+    /* justify-self: center; */
+    /* align-self: center; */
+    /* place-items: center; */
+    margin: auto;
+}
+
+.button span {}
+
+.arrow {
+    color: white;
+}

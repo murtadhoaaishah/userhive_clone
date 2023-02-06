@@ -1,0 +1,25 @@
+.section-three {
+    height: 50rem;
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.shortcut {
+    font-size: 5rem;
+    padding: 0 3rem 0 3rem;
+    font-weight: 800;
+}
+
+.teams {
+    padding: 0 3rem 0 3rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+
+.colored-text {
+    color: #4a7678;
+}

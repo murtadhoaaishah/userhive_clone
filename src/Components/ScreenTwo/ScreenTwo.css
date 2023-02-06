@@ -1,0 +1,28 @@
+.screen-two {
+    height: 55rem;
+    background-color: black;
+    /* display: block; */
+    /* margin: auto; */
+    flex-direction: column;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+    padding: 0 2rem 0 2rem;
+
+}
+
+.by-far {
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    padding: 0 8rem 0 8rem;
+
+}
+
+.charlie-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+}
