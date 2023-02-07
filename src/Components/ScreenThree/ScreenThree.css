@@ -1,10 +1,10 @@
 .section-three {
-    height: 50rem;
+    /* height: 50rem; */
     padding-top: 5rem;
     display: flex;
     flex-direction: column;
     text-align: center;
-
+    padding-bottom: 5rem;
 }
 
 .shortcut {
@@ -22,4 +22,12 @@
 
 .colored-text {
     color: #4a7678;
+}
+
+.screenthreeCard-Wrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4rem;
+    /* padding: 3rem; */
+    justify-content: space-around;
 }

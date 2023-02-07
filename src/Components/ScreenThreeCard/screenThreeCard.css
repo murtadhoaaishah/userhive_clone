@@ -1,0 +1,50 @@
+.eachScreenThreeCard {
+    height: 15rem;
+    width: 33rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #2c2c30;
+    /* row-gap: 2rem; */
+    /* margin-right: 2rem; */
+    border-radius: 2px;
+    padding: 1rem;
+    /* justify-content: space-around; */
+}
+
+.eachScreenThreeCard button {
+    background-color: #2c2c30;
+    color: #7381ff;
+}
+
+.screenthreeCard-heading {
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    color: white;
+    text-align: start;
+}
+
+.screenThreeCard-desc {
+    font-weight: 800;
+    color: #8a8f98;
+    margin-bottom: 2rem;
+    text-align: start;
+}
+
+
+.eachScreenThreeCard button {
+    display: flex;
+    align-items: center;
+    width: 100v;
+}
+
+.eachScreenThreeCard button span {
+    margin-right: 0.5rem;
+}
+
+.eachScreenThreeCard button img:hover {
+    transition: all;
+    animation-duration: 3000;
+    display: none;
+    border: none;
+}
